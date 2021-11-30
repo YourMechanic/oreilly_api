@@ -1,0 +1,3 @@
+module OreillyApi
+  VERSION = "1.0.0"
+end
