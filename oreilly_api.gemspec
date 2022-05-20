@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "oreilly_api"
   spec.version       = OreillyApi::VERSION
   spec.authors       = ["TruptiHosmani"]
-  spec.email         = ["trupti@yourmechanic.com"]
+  spec.email         = ["dev@yourmechanic.com"]
 
   spec.summary       = "Gem to integrate O'Reilly Auto Parts Rest API"
   spec.description   = "This gem provides a simple way to integrate O'Reilly Auto Parts Rest Apis"
@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
   if spec.respond_to?(:metadata)
-    spec.metadata["allowed_push_host"] = "https://github.com/YourMechanic/oreilly_api"
+    spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
     spec.metadata["homepage_uri"] = spec.homepage
     spec.metadata["source_code_uri"] = "https://github.com/YourMechanic/oreilly_api"
